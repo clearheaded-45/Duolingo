@@ -231,4 +231,4 @@ Duolingo is offered as a full free version with all features and updates include
 Start your language learning adventure today with Duolingo! Click the download button above and explore the world of languages at your fingertips.
 
 ---
-**Last updated:** 2026-10-18 08:37:44 UTC
+**Last updated:** 2026-10-18 13:01:21 UTC
